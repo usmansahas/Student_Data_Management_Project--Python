@@ -55,9 +55,11 @@ Use of data structures for record management
 Perfect for beginners who want hands-on practice in Python programming.
 
 ▶️ How to Run
+
 python student_management.py
 
 📁 Project Structure
+
 Student-Data-Management/
 │── student_management.py
 │── README.md
